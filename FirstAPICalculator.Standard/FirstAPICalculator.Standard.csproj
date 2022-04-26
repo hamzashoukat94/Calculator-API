@@ -9,13 +9,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>FirstAPICalculatorStandard</AssemblyName>
-    <Version>1.0.0.0</Version>
+    <Version>2.0.0.0</Version>
     <Authors></Authors>
     <Owners></Owners>
     <Product>FirstAPICalculator.Standard</Product>
     <Copyright>Copyright ©  2019</Copyright>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.0.0.0</FileVersion>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
     <Description>.NET client library for the First API Calculator</Description>
     <LangVersion>7.3</LangVersion>
   </PropertyGroup>
